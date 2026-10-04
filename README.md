@@ -21,5 +21,5 @@ This repository contains modular Terraform code to provision and manage highly a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/aws-terraform-infrastructure.git
+   git clone https://github.com/ubed-sharif-devops/Terraform-AWS-Integration.git
    cd aws-terraform-infrastructure/environments/dev
